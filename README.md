@@ -11,7 +11,8 @@ Also Azure WebJobs SDK is the base building block of [Azure Functions](https://d
 
 ## This sample is made for [this blog post]()
 
-This sample want to demonstrate how you can integrate Orleans and WebJob. Luckly WebJob sdk 3.x and Orleans 3.x support .Net Core generic Host (Microsoft.Extensions.Hosting) and you can Co-Host these two services in the same process very easily. Of course WebJob can be hosted in different process or service if you design requires.
+This sample want to demonstrate how you can integrate Orleans and WebJob. Luckly WebJob sdk 3.x and Orleans 3.x support .Net Core generic Host (Microsoft.Extensions.Hosting) and you can Co-Host these two services in the same process very easily. Of course WebJob can be hosted in different process or service if you design requires.  
+
 The point is that WebJob can extend Orleans with very powerful Azure integration like triggers for Timer, Storage Blob and Queue, CosmosDB, etc.
 
 
