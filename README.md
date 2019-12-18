@@ -30,3 +30,6 @@ Run `dotnet build` to build the Orleans.WebJobsSample.Server project.
 - Run  `C:\Program Files (x86)\Microsoft SDKs\Azure\Storage Emulator>AzureStorageEmulator.exe start` or start from start menu
 - Run `dotnet run"` in the Orleans.WebJobsSample.Server project directory or start from Visual Studio.
 
+## Thanks
+
+[.Net Boxed Orleans Template](https://github.com/Dotnet-Boxed/Templates)
